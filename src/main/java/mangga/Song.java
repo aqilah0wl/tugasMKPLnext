@@ -2,7 +2,7 @@ package mangga;
 
 public class Song {
     private String title, artist;
-    private int duration;
+    private int duration
     
     public void setTitle(String title){
         if (title != null){
