@@ -9,7 +9,7 @@ public class DriverAlbum
     public static void main( String[] args )
     {
         Song song1 = new Song();
-        Song song2 = new Song();
+        Song song2 = new Song()
         
         song1.setTitle("Melukis Senja");
         song1.setArtist("Budi Doremi");
